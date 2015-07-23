@@ -51,16 +51,30 @@
 <div class="section no-pad-bot" id="index-banner">
     <div class="container">
         <h1 class="text_h center header cd-headline letters type ">
+<<<<<<< HEAD
            <div class="animated fadeInDownBig" > <span class="font-effect-3d-float" style="font-size:70px;font-style:bold;font-family: 'Montserrat', sans-serif;">CONOSCENZA 2K15</span> </div>
+=======
+           <div class="animated fadeInDownBig" > <span style="font-style:bold;font-family: 'Montserrat', sans-serif;">Conoscenza '15</span> </div>
+>>>>>>> a02f6aeff52ca9d0ea4b2d1a5c7a4f856111986a
              <!-- <span class="cd-words-wrapper waiting">
                 <b class="is-visible">2K15</b></div> -->
                 <!-- <b></b> -->
                <!-- <b> is pure awesomeness</b> -->
             </span>
+<<<<<<< HEAD
           </br>
            <div class="animated fadeInUpBig"> <span class="font-effect-fire-animation" style="font-size:50px;font-family: 'Kaushan Script', cursive;">" Let The Games Begin "</span> </div>
           </br>
             <div class="animated fadeInLeftBig"><span class="font-effect-3d-float" style="font-size:30px;font-family: 'Exo', sans-serif;">-BROUGHT TO YOU ST.JOSEPH'S INSTITUTE OF TECHNOLOGY</span></div>
+=======
+            <div class="container">
+            <div class="center section">
+            </div>
+            </div>
+           <div class="animated fadeInUpBig"> <span style="font-size:50px;font-family: 'Kaushan Script', cursive;">"Know Thyself"</span> </div>
+          </br>
+           <div class="animated fadeInRight"> <span style="font-size:30px;font-style:italic">-Brought to you by ST.JOSEPH'S INSTITUTE OF TECHNOLOGY</span> </div>
+>>>>>>> a02f6aeff52ca9d0ea4b2d1a5c7a4f856111986a
 
         </h1>
     </div>
@@ -102,7 +116,11 @@
 <!--Work-->
 <div class="section scrollspy" id="work">
     <div class="container">
+<<<<<<< HEAD
         <h2 class="header text_b">Events</h2>
+=======
+        <h2 class="header text_b">Events </h2>
+>>>>>>> a02f6aeff52ca9d0ea4b2d1a5c7a4f856111986a
         <div class="row">
             <div class="col s12 m4 l4">
                 <div class="card">
